@@ -1,0 +1,46 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+Essa visualização permite resumir grandes arquivos apenas para a parte de interesse, que são as diferenças
+entre as versões analisadas. É uma forma de mostrar apenas as partes que são diferentes e assim evitar perder
+tempo analisando partes que não sofreram alterações.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Essa possibilidade permite ter controle de todas as alterações no arquivo e também saber o momento em que
+elas foram feitas. Além disso, permite reverter alterações que não saíram como o esperado.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no
+Git, v. o salvamento automático de versões, como no Google Docs?
+
+Prós: A escolha manual permite que você escolha o momento certo para criar um commit e a quantidade de
+alteração que cada commit conterá. Isso permite um maior controle das versões.
+
+Contra: Um ponto negativo da escolha manual ocorre quando a pessoa esquece de criar o commit no momento
+certo, podendo levar a perda de todo o trabalho realizado. Outro ponto negativo é o tempo gasto para criar manualmente todos os commits.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos
+em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Acho que os sistemas que permitem salvar vários arquivos em um único commit tem uma visão mais ampla de
+projetos envolvendo vários arquivos e o controle é feito para controlar a versão do projeto, enquanto aqueles que tratam cada arquivo separadamente tem uma visão apenas de versão de arquivo.
+
+ Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+ O comando git log é utilizado dentro de um repositório para apresentar todos os commits gravados para
+ todos os arquivos do repositório. Apresenta o ID do commit, o autor, a data de criação e um comentário
+ sobre o que foi feito até o momento de criação do commit.
+ O comando git diff é utilizado para comparar as alterações entre dois commits. O comando é utilizado com
+ os IDs dos commits que se quer comparar. 
+ Ambos os comandos são interrompidos utilizando a tecla q (quit).
+
+ De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+ O controle de versão dá mais segurança pois ao fazer uma alteração danosa é possível retornar para o estado
+ anterior a alteração e, com isso, não perder todo o trabalho feito até aquele momento devido a uma alteração
+ mal feita. Essa segurança confere, também, mais confiança para testar novas modificações em códigos sem
+ comprometer o trabalho já realizado.
+
+ Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+ Quero utilizar o Git para aprender e desenvolver uma carreira em Data Science utilizando as melhores práticas
+ na área. Acredito que uma base sólida e organizada será essencial para um aprendizado constante.
