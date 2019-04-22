@@ -1,0 +1,14 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Ao iniciar um repositório é criado um arquivo .git onde são armazenados os metadados do repositório.
+Neste arquivo, que fica oculto, são armazenados todos os dados de rastreamento dos commits do repositório.
+Isso é necessário para que o git reconheça o diretório como um repositório e, assim, possa fazer o rastreamento
+das alterações dos arquivos.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+A área de preparação do repositório é uma etapa intermediária na criação do commit. Com a utilização desta área
+é possível especificar devidamente quais arquivos foram alterados em cada commit, evitando assim a inclusão
+de arquivos que não foram alterados no commit. A utilização desta área de preparação permite que se tenha um
+maior controle sobre as versões dos arquivos e suas respectivas alterações.
+
