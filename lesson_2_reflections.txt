@@ -12,3 +12,23 @@ A área de preparação do repositório é uma etapa intermediária na criação
 de arquivos que não foram alterados no commit. A utilização desta área de preparação permite que se tenha um
 maior controle sobre as versões dos arquivos e suas respectivas alterações.
 
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+Eu posso incluir documentos ou arquivos na área de preparação até que eu consiga completar a alteração lógica
+e assim, após ter todos os arquivos dentro da área de preparação, criar um commit específico para aquela alteração.
+
+Quais são algumas situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Quando precisar testar duas versões de um mesmo código ou quando for necessário criar duas versões totalmente
+diferentes a partir de uma origem comum ou, ainda, quando aquele commit representa um estágio consolidado
+no desenvolvimento do código.
+Especificar diferentes partes do desenvolvimentos ("troca de contexto") dentro do mesmo projeto, "compartilhamento público do trabalho,
+em que será necessário manter um branch master de qualidade de produção que nunca será interrompido e outros
+branches de produção, experimentação, novos recursos, etc." Também para trabalhar em colaboração com outras pessoas.
+A utilização de branches facilitaria a localização destes pontos de ruptura ou de checagem.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Os diagramas mostram as ramificações de branches criados, permitindo acompanhar todos os commits criados
+em cada ramificação.
+
