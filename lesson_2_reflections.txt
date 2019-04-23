@@ -32,3 +32,14 @@ Como os diagramas ajudam a visualizar a estrutura de branches?
 Os diagramas mostram as ramificações de branches criados, permitindo acompanhar todos os commits criados
 em cada ramificação.
 
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+A mesclagem de dois branches cria um terceiro branch contendo os commits mais importantes dos dois branches.
+É representado dessa forma, pois mostra a convergência dos branches mesclados.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manulamente?
+
+Prós: A mesclagem automática agiliza todo o processo da mesclagem incluindo alterações anteriormente feitas que não precisam de serem conferidas.
+
+Contras: A mesclagem automática incorpora todas as alterações que não apresentaram conflito, permitindo 
+incluir alterações que podem apresentar problemas.
