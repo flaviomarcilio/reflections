@@ -23,5 +23,7 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
 	São utilizados quando se deseja criar, no mesmo repositório, outros caminhos de evolução de alterações do repositório. São ramificações
 	dentro do próprio repositório.
 
-	
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+	Ter uma cópia do último estado conhecido do remoto armazenado localmente permite que se trabalhe com a versão mais recente do repositório.
 
