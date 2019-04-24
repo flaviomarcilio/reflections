@@ -10,5 +10,18 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
 	naquele momento. 
 	A atualização manual permite que você tenha um maior controle sobre o momento ideal para você atualizar o repositório local.
 
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 
+	Bifurcações: São cópias de repositórios realizadas dentro do próprio GitHub. 
+	São utilizadas quando se deseja ter uma cópia do repositório de outra pessoa, executar alterações, compartilhar com outras pessoas,
+	sem interferir na versão original do autor.
+
+	Clones: São cópias de repositórios que fazemos para a nossa máquina, ou seja, do GitHub para a máquina local.
+	São utilizados quando queremos que o repositório da máquina local esteja vinculado ao repositório original.
+
+	Branches: São pontos de bifurcação dentro do mesmo repositório.
+	São utilizados quando se deseja criar, no mesmo repositório, outros caminhos de evolução de alterações do repositório. São ramificações
+	dentro do próprio repositório.
+
+	
 
