@@ -1,5 +1,14 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
-  A utilização de um repositório remoto seria interessante quando for necessário ou interessante trabalhar em diferentes máquinas ou
-  lugares e quiser deixar meu trabalho disponível para o acesso.
+	A utilização de um repositório remoto seria interessante quando for necessário ou interessante trabalhar em diferentes máquinas ou
+	lugares e quiser deixar meu trabalho disponível para o acesso.
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com seu repositório remoto?
+
+	Se ocorresse atualizações automáticas, muitos trabalhos envolvendo muitos colaboradores seriam praticamente inviabilizados,
+	pois o repositório local estaria se atualizando em momentos nos quais você estaria trabalhando em uma parte que não poderia ser atualizada
+	naquele momento. 
+	A atualização manual permite que você tenha um maior controle sobre o momento ideal para você atualizar o repositório local.
+
+
 
