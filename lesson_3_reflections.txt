@@ -1,0 +1,5 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+  A utilização de um repositório remoto seria interessante quando for necessário ou interessante trabalhar em diferentes máquinas ou
+  lugares e quiser deixar meu trabalho disponível para o acesso.
+
