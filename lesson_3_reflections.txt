@@ -27,3 +27,11 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 
 	Ter uma cópia do último estado conhecido do remoto armazenado localmente permite que se trabalhe com a versão mais recente do repositório.
 
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+	Para colaborar sem utilizar o Git ou GitHub, eu especificaria o meu trabalho realizado utilizando alguma marcação dentro do trabalho original
+	mostrando as alterações e/ou inclusões feitas e enviaria para o autor principal para proceder os ajustes e incorporações finais.
+	Seria mais difícil, pois teria que marcar para o responsável o local das alterações e ele teria o trabalho de efetuar a modificação
+	no trabalho original, mesmo aceitando minhas modificações. Outro problema seria no em como guardar as versões sem alteração. Neste caso,
+	seria necessário ter uma cópia para cada versão, o que dificultaria o acompanhamento de todo o desenvolvimento do trabalho.
+
