@@ -35,3 +35,11 @@ Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais di
 	no trabalho original, mesmo aceitando minhas modificações. Outro problema seria no em como guardar as versões sem alteração. Neste caso,
 	seria necessário ter uma cópia para cada versão, o que dificultaria o acompanhamento de todo o desenvolvimento do trabalho.
 
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+	Fazer uma alteração em um branch separado é interessante quando se quer incluir alguma alteração em uma versão em que se está trabalhando, mas não quiser
+	comproter o master com uma possível falha. Quando se quer testar as alterações ou manter duas versões do mesmo projeto, também são exemplos de aplicabilidade.
+	O benefício da abordagem de fazer alterações em um branch separado é a possibilidade de verificar o comportamento das alterações antes de incluí-las no master.
+	Já a abordagem de fazer as alterações no master é poder trabalhar com a versão mais atualizada do master e quando se tem certeza de que
+	as alterações são imprecindíveis para o restante do desenvolvimento do projeto.
+
